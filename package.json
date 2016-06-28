@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "node-forge": "^0.6.20",
+    "node-forge": "johanbaath/forge#1e01a6a",
     "q": "^1.1.0"
   },
   "devDependencies": {
